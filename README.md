@@ -1,3 +1,4 @@
-# Quiz 1 While
+En 1980 la ciudad A tenia 3.5 millones de habitantes y 1 rata de crecimiento del 7% anual y la ciudad B tenia 5 millones y una rata de crecimiento de 5% anual. 
+si el crecimiento se mantiene constante, hacer diagram y programa que imprima en que año la poblacion de la ciudad A es mayor que la de la ciudad B 
 
-## Pedro tiene un capital de c1 pesos, y Juan uno de c2 pesos.  Uniendo los dos no les alcanza para hacer un negocio que requiere una inversión de c3 pesos.  Deciden colocar cada uno su capital a ganar interés.  Pedro lo colocó a un interés compuesto del 3% mensual, y Juan al 4% mensual.  Hacer el diagrama de flujo y el programa en Python que averigüe e imprima en cuántos meses, uniendo los dos capitales, pueden hacer el negocio que desean.
+![diagramadeflujo]()
